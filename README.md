@@ -7,7 +7,7 @@ This is a simple game based on official react tutorial. The game has several imp
 
 ### Features
 
-The game allows you to play tic-tac-toe and alert the name of winner at the end. In case of no winner, it alerts about game being draw. The game also features**going back
+The game allows you to play tic-tac-toe and alert the name of winner at the end. In case of no winner, it alerts about game being draw. The game also features **going back
 to any past moves** to analyse or restart from a specific moves.
 
 ### Improvements
